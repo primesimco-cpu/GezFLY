@@ -1,0 +1,46 @@
+{
+  "nav": {"flights": "Uçuş", "stays": "Konaklama", "esim": "eSIM", "experiences": "Deneyimler", "assistant": "Asistan", "signin": "Giriş", "buyEsim": "eSIM al"},
+  "hero": {
+    "eyebrow": "Birinci sınıf bağlantı · Kişisel asistan",
+    "titleA": "Bir sınıf üstte", "titleB": "seyahat et.",
+    "lead": "GezFly; anında küresel bağlantıyı, kişisel AI seyahat masanı ve özenle seçilmiş konaklama ile deneyimleri tek, kusursuz akışta birleştirir.",
+    "searchLabel": "Nereye?", "searchPlaceholder": "Tokyo, Japonya", "searchCta": "eSIM'ini hazırla",
+    "micro": "180 ülke · saniyeler içinde aktif · gizli ücret yok"
+  },
+  "pass": {"title": "GezFly · birinci sınıf kart", "live": "bağlı", "data": "Veri", "duration": "Süre", "class": "Sınıf", "desk": "Seyahat masası: Haneda'da özel transferiniz ve lounge erişiminiz hazır. Onaylayayım mı?"},
+  "statement": "Emsalleri bilet satar. GezFly yolculuğu yönetir — bağlantıdan kapıya, tek bir özenli akışta.",
+  "services": {
+    "eyebrow": "Tek akış", "title": "Bağlantıyla başlar, seyahatin geri kalanını kapsar.",
+    "lead": "eSIM çekirdektir; konaklama, deneyim ve uçuş aynı akışta, asistanının önerisiyle yerine gelir.",
+    "core": "Çekirdek",
+    "esimT": "eSIM", "esimD": "180 ülkede anında veri. QR ile dakikalar içinde kurulum.",
+    "stayT": "Konaklama", "stayD": "Özenle seçilmiş oteller, en iyi fiyatlarla.",
+    "expT": "Deneyimler", "expD": "Turlar ve aktiviteler, asistanının önerisiyle.",
+    "flightT": "Uçuş", "flightD": "Rotanı bul, en uygun fiyatı yakala.",
+    "more": ["Araç kiralama", "Havalimanı transferi", "Otobüs", "Seyahat sigortası", "Lounge erişimi", "Çoklu para birimi", "Sadakat puanları"]
+  },
+  "concierge": {
+    "eyebrow": "Kişisel seyahat masası · 7/24 · çok dilli", "title": "Yanında, hep açık.",
+    "lead": "eSIM'inle gelen AI asistan gideceğin yeri bilir, kendi dilinde yanıt verir ve doğru anda en iyi seçeneği önerir — sen sormadan.",
+    "me": "Yarın Tokyo'ya iniyorum, akşam için bir önerin var mı?",
+    "ai1": "Haneda'dan otele özel transferiniz ayarlı. Akşam için Shibuya çevresinde iki seçenek hazırladım.",
+    "ai2": "İstersen şunu rezerve edeyim:", "offerT": "teamLab Planets · akşam seansı", "offerD": "Otelinden 18 dk · anında onay"
+  },
+  "auth": {
+    "eyebrow": "Hesap", "title": "Saniyeler içinde katıl.",
+    "lead": "Google ya da Apple ile tek dokunuşta gir; tüm seyahatlerin, kartların ve asistan geçmişin tek yerde.",
+    "cardTitle": "GezFly'a katıl", "cardSub": "Yolculuğun seninle birlikte hatırlasın.",
+    "google": "Google ile devam et", "apple": "Apple ile devam et", "or": "YA DA",
+    "emailPlaceholder": "E-posta adresin", "continue": "Devam",
+    "note": "Devam ederek Koşullar ve Gizlilik politikasını kabul edersin. Hesabın çok cihazda senkronize olur."
+  },
+  "steps": {
+    "eyebrow": "Nasıl çalışır", "title": "Üç adımda yolda.",
+    "s1T": "Bağlan", "s1D": "Gideceğin ülke için eSIM'ini seç, QR'ı okut, çevrimiçi ol.",
+    "s2T": "Planla", "s2D": "Asistanına nereye gittiğini söyle; rota ve öneriler hazır gelsin.",
+    "s3T": "Yaşa", "s3D": "Konaklama, transfer ve deneyimleri tek akışta ayarla."
+  },
+  "cta": {"title": "Sıradaki yolculuğun bir sınıf üstte olsun.", "lead": "eSIM'ini seç, kişisel seyahat masanı yanına al. Gerisini GezFly halletsin.", "button": "Hemen eSIM al"},
+  "desk": {"fab": "Seyahat masası", "head": "GezFly Asistan", "tag": "7/24 · çok dilli", "greeting": "Merhaba! Nereye gidiyorsun? eSIM, otel ya da plan — hepsinde yardımcı olabilirim.", "inputPlaceholder": "Bir şey sor…"},
+  "footer": {"tagline": "Bağlantıdan kapıya, tek akışta. Seyahatin bir sınıf üstte.", "travel": "SEYAHAT", "connect": "BAĞLANTI", "account": "HESAP", "support": "DESTEK", "note": "TASLAK · GezFly · PrimeSim eSIM çekirdeği"}
+}
