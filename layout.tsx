@@ -1,5 +1,5 @@
 import type {ReactNode} from 'react';
-import {NextIntlClientProvider, hasLocale} from 'next-intl';
+import {NextIntlClientProvider} from 'next-intl';
 import {getMessages, setRequestLocale} from 'next-intl/server';
 import {notFound} from 'next/navigation';
 import {Fraunces, Hanken_Grotesk, Space_Mono} from 'next/font/google';
@@ -27,7 +27,7 @@ export default async function LocaleLayout({
   params: Promise<{locale: string}>;
 }) {
   const {locale} = await params;
-  if (!hasLocale(routing.locales, locale)) notFound();
+  if (!routing.locales.includes(locale as any)) notFound();
   setRequestLocale(locale);
   const messages = await getMessages();
   const dir = locale === 'ar' ? 'rtl' : 'ltr';
